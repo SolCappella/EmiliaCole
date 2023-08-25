@@ -1,0 +1,106 @@
+.Home-Nombre { 
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 50px;
+  margin: 0;
+} 
+
+.Home-Titulo { 
+  font-size: 75px;
+  background-color: rgba(224, 207, 207, 0.268);
+}        
+
+#Home-Fondo { 
+  background-image: url(./Imagenes/home.jpg);
+  background-size: 1150px;
+  background-position: center right ;
+  background-repeat: no-repeat;
+}
+
+.Lista {
+  color:black;
+  list-style-type: none;
+  font-family: 'Raleway', sans-serif;
+  font-size: small;
+}
+
+a {
+  text-decoration: none;
+  color:black;
+  font-size: 15px;
+}
+
+.About-Titulo{ 
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 50px;
+  margin: 0;
+}
+    
+.About-Texto {  
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 25px;
+  color: mediumturquoise;
+  margin: 0;
+  background-color: rgba(255, 255, 255, 0.155);
+ }
+
+.About-Hombre { 
+  color: mediumturquoise;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  background-color: rgba(255, 255, 255, 0.155);
+}
+
+#About-Fondo{ 
+  background-image: url(./Imagenes/about.jpg);
+  background-position: center right;
+  background-size: 1150px;
+  background-repeat: no-repeat;
+}
+
+.Music-Titulo{ 
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 50px;
+}
+    
+.Music-Subtitulo { 
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 25px;
+  margin: 0;
+}
+
+ .Autores { 
+  margin: 0;
+}
+
+.Contact-Titulo { 
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 50px;
+}
+    
+.Contact-Subtitulo { 
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 25px;
+  margin: 0%;
+}
+    
+.Contactos { font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 15px;
+  color: mediumturquoise;
+  margin: 0%;
+ }
+
+.Contactos-Data { 
+  color: black;
+  font-size: 15px;
+  margin: 0%;
+}
